@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Siva Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siva2910)](https://github.com/Siva2910/github-readme-stats)
+[![Siva Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siva2910&show_icons=true)](https://github.com/Siva2910/github-readme-stats)
 
-![Siva Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siva2910&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siva2910&layout=compact)](https://github.com/Siva2910/github-readme-stats)
 
+
+
+[![Siva Kumar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Siva2910)](https://github.com/Siva2910/github-readme-stats)
