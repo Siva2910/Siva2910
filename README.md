@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on improving my **Coding Skills**
-- 🌱 I’m currently learning ** Data Structures and Algorithms ** and **Deep Learning**
+- 🌱 I’m currently learning **Data Structures and Algorithms** and **Deep Learning**
 - 👯 I’m looking to collaborate on **Deep Learning Projects**
 - 📫 How to reach me: sivasret@gmail.com
 
