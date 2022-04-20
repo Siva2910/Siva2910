@@ -11,6 +11,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siva2910&layout=compact&theme=onedark)](https://github.com/Siva2910/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=anuraghazra&repo=github-readme-stats&theme=onedark)](https://github.com/Siva2910/github-readme-stats)
 
 
