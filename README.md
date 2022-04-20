@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 [![Siva Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siva2910)](https://github.com/Siva2910/github-readme-stats)
+
+![Siva Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siva2910&count_private=true)
+
