@@ -7,10 +7,10 @@
 
 
 
-[![Siva Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siva2910&show_icons=true&theme='radical')](https://github.com/Siva2910/github-readme-stats)
+[![Siva Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siva2910&show_icons=true&theme=onedark)](https://github.com/Siva2910/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siva2910&layout=compact)](https://github.com/Siva2910/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siva2910&layout=compact&theme=onedark)](https://github.com/Siva2910/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=anuraghazra&repo=github-readme-stats)](https://github.com/Siva2910/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=anuraghazra&repo=github-readme-stats&theme=onedark)](https://github.com/Siva2910/github-readme-stats)
 
 
