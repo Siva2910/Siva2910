@@ -1,24 +1,18 @@
 ### Hi there 👋
 
-<!--
-**Siva2910/Siva2910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on improving my Coding Skills
+- 🌱 I’m currently learning Data Structures and Algorithms
+- 👯 I’m looking to collaborate on Deep Learning Projects
+- 📫 How to reach me: sivasret@gmail.com
+
+
 
 [![Siva Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siva2910&show_icons=true)](https://github.com/Siva2910/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siva2910&layout=compact)](https://github.com/Siva2910/github-readme-stats)
 
 
-
-[![Siva Kumar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Siva2910)](https://github.com/Siva2910/github-readme-stats)
